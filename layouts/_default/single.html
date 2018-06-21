@@ -1,0 +1,10 @@
+{{ partial "head" . }}
+
+  {{ .Render "single.hat" }}
+  <article>
+	  <span class='dateabout'>Written: {{ .Date.Format "2006 Jan 2" }} by {{.Params.author}}</span>
+  {{ .Render "single.content" }}
+  </article>
+  {{ .Render "single.boot" }}
+
+{{ partial "foot" . }}

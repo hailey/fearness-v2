@@ -1,0 +1,169 @@
+@media screen and (max-width: 580px) {
+    body {
+        font-size: 1em;
+        background: #000;
+    }
+    ul {
+		position: fixed;
+		top: 0;
+		width: 100%;
+		background: #000;
+		font-size: .6em;
+	}
+    p {
+		font-size: 1.2em;
+	}
+	h5 {
+	 /*text-shadow: 3px 2px 2px #FF0000;
+	 transform: skew(17deg,0deg);*/
+	 font-size: 1em;
+	 border:none;
+	}
+	.small {
+		font-size: .6em;
+	}
+	.nav, .foot {
+		display: none;
+	}
+}
+a:link 		{text-decoration: none; color: #F56870;}
+a:visited 	{text-decoration: none; color: #F56870;}
+a:active 	{text-decoration: none; color: #A73036;}
+a:hover 	{text-decoration: underline; color: #f00;}
+
+body {
+	background-color: black;
+	color: #fcc; 
+	font-family: sans-serif;
+	font-size: 1.2em;
+}
+
+
+h2 { background-image: url('http://static.fearness.org/img/flame_background2.png');
+	 background-repeat: no-repeat;
+	 text-shadow: 3px 2px 2px #CC0000;
+}
+h3 {
+	font-size:1.8em;
+	font-weight: bold;
+}
+/*h5 {
+	 text-shadow: 3px 2px 2px #FF0000;
+	 transform: skew(17deg,0deg);
+	 padding-left: .6em;
+	 font-size: 1.4em;
+/*	 border: 2px solid #FE2E29;
+	 border-radius: 1em;
+}*/
+
+
+li {
+	background-color:#000;
+}
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #333;
+}
+
+p {
+	word-wrap: normal;
+}
+
+q {
+	/*background: #FFDFDF;*/
+	padding: 7px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+/* class based */
+.small {
+	font-size: 1.6em;
+}
+
+.countdown {
+	font-size: 1.1em;
+	color: #FF0019;
+}
+
+.copyright {
+	font-size: 1em;
+}
+.dateabout {
+	font-size: .5em;
+	color: #FFB7A7;
+}
+.disclaim {
+    position: relative;
+    display: inline-block;
+    font-size: .6em;
+}
+
+.disclaim-hover {
+    display: none;
+    position: absolute;
+    background-color: #7F2323;
+    min-width: 58px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 0px 10px;
+    z-index: 1;
+    font-size: .8em;
+    
+}
+
+.disclaim:hover .disclaim-hover {
+    display: block;
+}
+.h5header {
+	background: #000;
+	border: 2px solid #FE2E29;
+	border-radius: 1em;
+	padding: .5em;
+	font-size: 1.4em;
+	text-shadow: 3px 2px 2px #FF0000;
+	/*transform: skew(17deg,0deg);*/
+}
+.nav, .foot {
+	font-size: 1.8em;
+}
+
+.navbar {
+    float: left;
+    color: #fcc;
+    text-align: center;
+    padding: 5px 8px;
+    display: block;
+    font-size: 1.8em;
+}
+
+.pagination {
+	background-color:#000;
+}
+
+.quote,blockquote {
+	background: #000;
+	border-radius: 1em;
+	padding: 1em;
+	border: 2px solid #4CC6DC;
+	color: #64C7BE;
+	margin: 1em;
+	font-size: .9em;
+} 
+
+section, article{
+	border-radius: 1em;
+	border: 2px solid #F97878;
+	padding: .5em;
+	margin: 1em;
+}
+section, article, aside, footer, header, nav, hgroup {
+  display:block;
+  font-size: 1.8em;
+}
+

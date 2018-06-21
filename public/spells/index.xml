@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spells on fearness.org</title>
+    <link>https://fearness.org/spells/</link>
+    <description>Recent content in Spells on fearness.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016</copyright>
+    <lastBuildDate>Sat, 06 Feb 2016 22:14:47 -0800</lastBuildDate>
+    
+	<atom:link href="https://fearness.org/spells/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Placebo Spells</title>
+      <link>https://fearness.org/spells/placebospell/</link>
+      <pubDate>Sat, 06 Feb 2016 22:14:47 -0800</pubDate>
+      
+      <guid>https://fearness.org/spells/placebospell/</guid>
+      <description>This is&amp;hellip;. some content. I haven&amp;rsquo;t written anything yet for this page but trust me, someday I will. Maybe. Possibly. Here is a gif to entertain you.</description>
+    </item>
+    
+    <item>
+      <title>Spells</title>
+      <link>https://fearness.org/spells/spell-introduction/</link>
+      <pubDate>Mon, 03 Feb 2014 15:29:59 -0800</pubDate>
+      
+      <guid>https://fearness.org/spells/spell-introduction/</guid>
+      <description>I got plenty to put here, which means I also have plenty of work to do, please stand by.
+If you&amp;rsquo;d like to see the full list go the Spell Index</description>
+    </item>
+    
+  </channel>
+</rss>

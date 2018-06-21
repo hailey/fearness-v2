@@ -1,0 +1,12 @@
+<section>
+	<div class='post-summary'>
+		<h3>{{.Title}}</h3>
+		<span class='dateabout'>{{ .Date.Format "2006 Jan 2" }} by {{.Params.author}}</span>
+		{{ partial "bloc/content/summary" . }}
+		{{ if .Truncated }}
+		<p class="read-more-link">
+			<a href="{{ .RelPermalink }}">To read more..</a>
+		</p>
+		{{ end }}
+	</div>
+</section>

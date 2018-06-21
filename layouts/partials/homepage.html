@@ -1,0 +1,17 @@
+  <div class="homepage">
+
+    <header>
+      {{ partial "bloc/content/lastupdate" . }}
+		<h2>fearness.org</h2>
+		<h5>his return is at hand</h5>
+    </header>
+
+	<!--<h4>We battle Sin as a reminder that the Lord is all you need to fear.</h4>-->
+	
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "articles") }}
+    {{ range $paginator.Pages }}
+     {{ .Render "summary" }}
+    {{ end }}
+    {{ partial "bloc/content/pagination" . }}
+  </div>
+ 

@@ -1,0 +1,34 @@
++++
+author = "Saabria Nejem"
+category = ["posts", "articles"]
+date = "2016-01-13T19:16:37-08:00"
+draft = false
+keywords = ["prediction", "faith", "prophecy","vision"]
+slug = "jan-thirteenth-predictions"
+tags = ["fontpage", "updates","prophecy","jihad","revelation"]
+title = "Jihad as an Obligation"
+topics = ["fearness"]
+type = "articles"
+
++++
+
+It seems my predictions on Allahs arrival have been twarted by evil. I'm
+ not sure why it didn't happen but I assume there is some holy reason 
+ that is beyond me. In the meantime I will bring you meaningful quotes 
+ from the great Holy Quran.
+
+>	Not equal are those of the believers who sit (at home), except those who
+	are disabled (by injury or are blind or lame, etc.), and those who 
+	strive hard and fight in the Cause of Allah with their wealth and their
+	lives. Allah has preferred in grades those who strive hard and fight
+	with their wealth and their lives above those who sit (at home). Unto 
+	each, Allah has promised good (Paradise), but Allah has preferred 
+	those who strive hard and fight, above those who sit (at home) by a
+	huge reward - [Quran 4:95](http://quran.com/4/95-96)
+
+
+>	Fighting is prescribed for you, and ye dislike it. But it is possible 
+	that ye dislike a thing which is good for you, and that ye love a thing
+	which is bad for you. But Allah knoweth, and ye know not. - 
+	[Quran 2:216](http://www.usc.edu/org/cmje/religious-texts/quran/verses/002-qmt.php#002.216)
+<!--more-->

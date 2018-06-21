@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on fearness.org</title>
+    <link>https://fearness.org/tags/news/</link>
+    <description>Recent content in News on fearness.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016</copyright>
+    <lastBuildDate>Fri, 17 Oct 2014 20:03:44 -0800</lastBuildDate>
+    
+	<atom:link href="https://fearness.org/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Good News</title>
+      <link>https://fearness.org/articles/the-good-news/</link>
+      <pubDate>Fri, 17 Oct 2014 20:03:44 -0800</pubDate>
+      
+      <guid>https://fearness.org/articles/the-good-news/</guid>
+      <description>He is so close I can almost sense it. Every time I feel a chill go down my back I know that its the waves of purity that are radiated by the genuine soul lord Cthulhu! It has been six years, six months and six days since his last return. My fingers ache as I struggle to type this to keep you up to date on the latest Cthulhu news.</description>
+    </item>
+    
+  </channel>
+</rss>

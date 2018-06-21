@@ -1,0 +1,29 @@
+baseurl = "https://fearness.org/"
+languageCode = "en-us"
+title = "fearness.org"
+theme = "bootstrap"
+canonifyurls = true
+layoutdir = "layouts"
+publishdir = "public"
+staticdir = "static"
+builddrafts = true
+copyright = '2016'
+paginatePath = "page"
+watch = true
+
+[taxonomies]
+category = "categories"
+tag	= "tags"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[params]
+description = "fearness.org - Fear is healthy."
+author = "Hailey Bannister"
+paginate = 20
+twitter = "HaileyBannister"
+googleplus = "HaileyAnnetteClark"
+showBlogHeader = "true"
+footline = ""
+googleAnalytics = "UA-3546064-2"
